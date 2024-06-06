@@ -1,0 +1,30 @@
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.Blog.API.deps.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.Blog.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.Blog.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.csproj.AssemblyReference.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.AssemblyInfoInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.AssemblyInfo.cs
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.csproj.CoreCompileInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.csproj.CopyComplete
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\refint\Explorer.Blog.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\ref\Explorer.Blog.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.Blog.API.deps.json
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.Blog.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.Blog.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.csproj.AssemblyReference.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.AssemblyInfoInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.AssemblyInfo.cs
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.csproj.CoreCompileInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.csproj.CopyComplete
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\refint\Explorer.Blog.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\Explorer.Blog.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Blog\Explorer.Blog.API\obj\Debug\net7.0\ref\Explorer.Blog.API.dll

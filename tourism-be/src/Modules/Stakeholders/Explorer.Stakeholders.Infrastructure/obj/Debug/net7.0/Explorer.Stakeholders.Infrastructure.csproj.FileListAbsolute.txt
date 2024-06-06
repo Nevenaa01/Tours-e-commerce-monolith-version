@@ -1,0 +1,46 @@
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.deps.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.BuildingBlocks.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.BuildingBlocks.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.AssemblyInfo.cs
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.csproj.CopyComplete
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\refint\Explorer.Stakeholders.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\ref\Explorer.Stakeholders.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Tours.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Tours.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.deps.json
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.BuildingBlocks.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Tours.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.BuildingBlocks.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Stakeholders.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\bin\Debug\net7.0\Explorer.Tours.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.csproj.AssemblyReference.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.AssemblyInfoInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.AssemblyInfo.cs
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.csproj.CoreCompileInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.csproj.CopyComplete
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\refint\Explorer.Stakeholders.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\Explorer.Stakeholders.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Stakeholders\Explorer.Stakeholders.Infrastructure\obj\Debug\net7.0\ref\Explorer.Stakeholders.Infrastructure.dll

@@ -1,0 +1,198 @@
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\appsettings.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.exe
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.deps.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.runtimeconfig.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\FluentResults.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.csproj.AssemblyReference.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.AssemblyInfoInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.AssemblyInfo.cs
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.csproj.CoreCompileInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets\msbuild.Explorer.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Explorer.API.props
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Explorer.API.props
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Explorer.API.props
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\scopedcss\bundle\Explorer.API.styles.css
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.csproj.CopyComplete
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\refint\Explorer.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.genruntimeconfig.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\obj\Debug\net7.0\ref\Explorer.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.Infrastructure.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.Infrastructure.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Konscious.Security.Cryptography.Argon2.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Explorer.API\bin\Debug\net7.0\Konscious.Security.Cryptography.Blake2.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\appsettings.Development.json
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\appsettings.json
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.exe
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.deps.json
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.runtimeconfig.json
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\AutoMapper.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Castle.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\FluentResults.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Humanizer.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Konscious.Security.Cryptography.Argon2.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Konscious.Security.Cryptography.Blake2.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Npgsql.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\System.CodeDom.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.Infrastructure.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.Infrastructure.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Blog.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Encounters.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Payments.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Stakeholders.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\bin\Debug\net7.0\Explorer.Tours.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.csproj.AssemblyReference.cache
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.AssemblyInfoInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.AssemblyInfo.cs
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.csproj.CoreCompileInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets\msbuild.Explorer.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Explorer.API.props
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Explorer.API.props
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Explorer.API.props
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets.pack.json
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets.build.json
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\staticwebassets.development.json
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\scopedcss\bundle\Explorer.API.styles.css
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.csproj.CopyComplete
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\refint\Explorer.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\Explorer.API.genruntimeconfig.cache
+E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\obj\Debug\net7.0\ref\Explorer.API.dll

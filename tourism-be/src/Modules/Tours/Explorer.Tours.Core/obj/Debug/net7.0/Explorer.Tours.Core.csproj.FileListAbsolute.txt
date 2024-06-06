@@ -1,0 +1,46 @@
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.Core.deps.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.csproj.AssemblyReference.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.AssemblyInfoInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.AssemblyInfo.cs
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.csproj.CopyComplete
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\refint\Explorer.Tours.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\ref\Explorer.Tours.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Stakeholders.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Stakeholders.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Payments.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Payments.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Stakeholders.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Stakeholders.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.Core.deps.json
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Payments.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Stakeholders.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Stakeholders.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Stakeholders.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Stakeholders.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Tours.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.Payments.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.csproj.AssemblyReference.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.AssemblyInfoInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.AssemblyInfo.cs
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.csproj.CoreCompileInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.csproj.CopyComplete
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\refint\Explorer.Tours.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\Explorer.Tours.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Tours\Explorer.Tours.Core\obj\Debug\net7.0\ref\Explorer.Tours.Core.dll

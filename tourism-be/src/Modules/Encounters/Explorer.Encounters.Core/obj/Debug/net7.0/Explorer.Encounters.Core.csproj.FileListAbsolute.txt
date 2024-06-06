@@ -1,0 +1,34 @@
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.Core.deps.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.csproj.AssemblyReference.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.AssemblyInfoInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.AssemblyInfo.cs
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.csproj.CoreCompileInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.csproj.CopyComplete
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\refint\Explorer.Encounters.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\ref\Explorer.Encounters.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.Core.deps.json
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.Encounters.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.csproj.AssemblyReference.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.AssemblyInfoInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.AssemblyInfo.cs
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.csproj.CoreCompileInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.csproj.CopyComplete
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\refint\Explorer.Encounters.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\Explorer.Encounters.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Encounters\Explorer.Encounters.Core\obj\Debug\net7.0\ref\Explorer.Encounters.Core.dll

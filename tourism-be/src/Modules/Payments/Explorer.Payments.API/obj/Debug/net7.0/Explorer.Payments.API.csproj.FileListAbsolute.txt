@@ -1,0 +1,30 @@
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.Payments.API.deps.json
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.Payments.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.Payments.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.csproj.AssemblyReference.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.AssemblyInfoInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.AssemblyInfo.cs
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.csproj.CoreCompileInputs.cache
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.csproj.CopyComplete
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\refint\Explorer.Payments.API.dll
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.pdb
+C:\Users\Nedeljko\Desktop\PSW\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\ref\Explorer.Payments.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.Payments.API.deps.json
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.Payments.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.Payments.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\bin\Debug\net7.0\Explorer.BuildingBlocks.Core.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.csproj.AssemblyReference.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.AssemblyInfoInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.AssemblyInfo.cs
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.csproj.CoreCompileInputs.cache
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.csproj.CopyComplete
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\refint\Explorer.Payments.API.dll
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\Explorer.Payments.API.pdb
+E:\projects\Tours e-commerce\tourism-be\src\Modules\Payments\Explorer.Payments.API\obj\Debug\net7.0\ref\Explorer.Payments.API.dll

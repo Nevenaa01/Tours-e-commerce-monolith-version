@@ -1,0 +1,21 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Explorer.API
+build_property.RootNamespace = Explorer.API
+build_property.ProjectDir = E:\projects\Tours e-commerce\tourism-be\src\Explorer.API\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\projects\Tours e-commerce\tourism-be\src\Explorer.API
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Korisnik/.nuget/packages/microsoft.dotnet.upgradeassistant.extensions.default.analyzers/0.4.421302/build/WebTypeReplacements.typemap]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
